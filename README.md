@@ -1,11 +1,11 @@
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" height="200" width="1000" alt="dushime"  /> </p>
-<h1 align="center">Hi 👋, I'm dushime</h1>
+<h1 align="center">Hi There  👋, I'm dushime</h1>
 <h3 align="center">A passionate backend developer from Rwanda</h3>
 
 <p align="right"> <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="dushime" width="300" /> </p>
 
-- 🌱 I’m currently learning **java & React native**
+
 
 - 💬 Ask me about **nodeJs & PHP**
 
